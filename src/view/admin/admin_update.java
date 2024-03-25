@@ -282,7 +282,7 @@ public class admin_update extends javax.swing.JFrame {
 
     private void jLabel8MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel8MouseClicked
         setVisible(false);
-        new view.admin_home().setVisible(true);
+        new view.admin.admin_home().setVisible(true);
     }//GEN-LAST:event_jLabel8MouseClicked
 
     private void jTextField6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField6ActionPerformed
